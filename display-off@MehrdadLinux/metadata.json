@@ -1,0 +1,7 @@
+{
+    "uuid": "display-off@MehrdadLinux",
+    "name": "Display Off",
+    "description": "Turn off display with one click",
+    "icon": "video-display-symbolic",
+    "version": "1.0"
+}
