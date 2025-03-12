@@ -1,4 +1,4 @@
-# Cinnamon-Applets-panel-Tutorial
+# ML-Cinnamon-Applets
 Simple examples for writing a Cinnamon Applet
 
 
