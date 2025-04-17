@@ -1,0 +1,17 @@
+{
+    "up-color": {
+        "type": "colorchooser",
+        "default": "#00ff00",
+        "description": "Color when price increases (dt=high)"
+    },
+    "down-color": {
+        "type": "colorchooser",
+        "default": "#ff0000",
+        "description": "Color when price decreases (dt=low)"
+    },
+    "neutral-color": {
+        "type": "colorchooser",
+        "default": "#ffffff",
+        "description": "Default color when no change"
+    }
+}
